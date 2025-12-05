@@ -1,7 +1,7 @@
 [
     {
         "name": "Classical",
-        "levelID": "114",
+        "levelID": "111",
         "creator": "SecRifal",
         "videoURL": "https://youtu.be/HO93SOvjKw8",
         "imageURL": "imgs/demons/Classical.png",
@@ -14,7 +14,7 @@
     },
     {
         "name": "Bankomat",
-        "levelID": "164",
+        "levelID": "112",
         "creator": "SecRifal",
         "videoURL": "https://youtu.be/2A-WLTmLE3Y",
         "imageURL": "imgs/demons/Bankomat.png",
@@ -26,21 +26,21 @@
         "xp": 1650
     },
     {
-        "name": "Thunderzone",
-        "levelID": "64",
-        "creator": "aptmember",
-        "videoURL": "",
-        "imageURL": "imgs/demons/Thunderzone.png",
-        "Verifier": "aptmember",
-        "verifURL": "https://youtu.be/618S9Zm1VT8?si=hKzn9ne4W_YTqbUp",
-        "stars": 35,
-        "skillset": "ufo-gold; ship-silver",
-        "diff": "hard demon",
-        "xp": 1600
+        "name": "He Sees Everything",
+        "levelID": "103",
+        "creator": "KricktNORl",
+        "videoURL": false,
+        "imageURL": "imgs/demons/He Sees Everything.png",
+        "Verifier": "KricktNORl",
+        "verifURL": false,
+        "stars": 25,
+        "skillset": "memory-gold; ball-silver; ship-silver",
+        "diff": "medium demon",
+        "xp": 1400
     },
     {
         "name": "End of the time",
-        "levelID": "162",
+        "levelID": "159",
         "creator": "sr3l1ck",
         "videoURL": false,
         "imageURL": "imgs/demons/End of the time.png",
@@ -52,47 +52,8 @@
         "xp": 1350
     },
     {
-        "name": "Firewall",
-        "levelID": "178",
-        "creator": "aptmember",
-        "videoURL": false,
-        "imageURL": "imgs/demons/Firewall.png",
-        "Verifier": "aptmember",
-        "verifURL": false,
-        "stars": 18,
-        "skillset": "ship-silver; wave-silver; memory-silver",
-        "diff": "easy demon",
-        "xp": 1235
-    },
-    {
-        "name": "sinister circles",
-        "levelID": "202",
-        "creator": "aptmember",
-        "videoURL": false,
-        "imageURL": "imgs/demons/sinister circles.png",
-        "Verifier": "aptmember",
-        "verifURL": false,
-        "stars": 17,
-        "skillset": "ship-silver; wave-silver; memory-silver",
-        "diff": "easy demon",
-        "xp": 1200
-    },
-    {
-        "name": "Chartreuse",
-        "levelID": "184",
-        "creator": "aptmember",
-        "videoURL": false,
-        "imageURL": "imgs/demons/Chartreuse.png",
-        "Verifier": "aptmember",
-        "verifURL": false,
-        "stars": 16,
-        "skillset": "ship-silver",
-        "diff": "easy demon",
-        "xp": 1150
-    },
-    {
         "name": "Megalovania",
-        "levelID": "165",
+        "levelID": "113",
         "creator": "SecRifal",
         "videoURL": "https://youtu.be/nhoUIUREZoc?si=wvx81znOdI-Tmnib",
         "imageURL": "imgs/demons/Megalovania.png",
@@ -102,31 +63,5 @@
         "skillset": "wave-silver; ufo-silver; memory-silver",
         "diff": "easy demon",
         "xp": 900
-    },
-    {
-        "name": "Exosphere",
-        "levelID": "275",
-        "creator": "aptmember",
-        "videoURL": false,
-        "imageURL": "imgs/demons/Exosphere.png",
-        "Verifier": "aptmember",
-        "verifURL": false,
-        "stars": 10,
-        "skillset": "robot-silver",
-        "diff": "easy demon",
-        "xp": 800
-    },
-    {
-        "name": "Ice",
-        "levelID": "142",
-        "creator": "Pivo",
-        "videoURL": false,
-        "imageURL": "imgs/demons/Ice.png",
-        "Verifier": "Pivo",
-        "verifURL": false,
-        "stars": 5,
-        "skillset": "robot-silver",
-        "diff": "easy demon",
-        "xp": 700
     }
 ]

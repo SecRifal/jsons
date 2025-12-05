@@ -1,7 +1,7 @@
 [
 {
     "name": "How do you do",
-    "levelID": "280",
+    "levelID": "110",
     "creator": "SecRifal",
     "videoURL": false,
     "imageURL": "imgs/challenges/How do you do.png",
@@ -10,17 +10,5 @@
     "stars": 40,
     "skillset": "memory-diamond; timings-silver",
     "xp": 2100
-  },
-  {
-    "name": "yatagarasu 2",
-    "levelID": "294",
-    "creator": "sr3l1ck",
-    "videoURL": false,
-    "imageURL": "imgs/challenges/yatagarasu 2.png",
-    "Verifier": "sr3l1ck",
-    "verifURL": "https://youtube.com/shorts/odlB2Rnknzs?si=bd90q9eUfU5JR5EN",
-    "stars": 15,
-    "skillset": "memory-gold; ship-gold",
-    "xp": 1300
   }
 ]
