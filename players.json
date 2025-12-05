@@ -20,5 +20,17 @@
                 "date": "2025.11.22"
             }
         ]
+    },
+    {
+        "name": "KrictNOLr",
+        "avatar": "images/players/KrictNOLr.png",
+        "isAdmin": false,
+        "completedLevels": [
+            {
+                "name": "End of the time",
+                "videoURL": "https://youtu.be/3awRCUz6tfM",
+                "date": "2025.11-30"
+            }
+        ]
     }
 ]
