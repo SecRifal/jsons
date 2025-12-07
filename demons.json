@@ -52,6 +52,19 @@
         "xp": 1350
     },
     {
+        "name": "Giena",
+        "levelID": "170",
+        "creator": "Solozar",
+        "videoURL": false,
+        "imageURL": "imgs/demons/Giena.png",
+        "Verifier": "Solozar",
+        "verifURL": "https://youtu.be/wzj4hznneNk?si=juRl8KuEUfNn1Uzm",
+        "stars": 17,
+        "skillset": "wave-silver; ufo-silver;",
+        "diff": "easy demon",
+        "xp": 900
+    },
+    {
         "name": "Megalovania",
         "levelID": "113",
         "creator": "SecRifal",
