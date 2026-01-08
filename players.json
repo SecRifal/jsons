@@ -1,0 +1,113 @@
+[
+  {
+    "name": "SecRifal",
+    "avatar": "avatars/SecRifal.png",
+    "completedLevels": [
+      {
+        "name": "Classical",
+        "date": "2025.07.26-...",
+        "videoURL": "https://youtu.be/YE2mEpY9aCM"
+      },
+      {
+        "name": "Bankomat",
+        "date": "2025.08.05-...",
+        "videoURL": "https://youtu.be/oiDzOnQmsDQ"
+      },
+      {
+        "name": "How do you do",
+        "date": "2025.11.22-...",
+        "videoURL": "https://youtube.com/shorts/DaVhb4PT62s?feature=share"
+      }
+    ]
+  },
+  {
+    "name": "Ceals",
+    "avatar": "avatars/Ceals.png",
+    "completedLevels": [
+      {
+        "name": "Find Me",
+        "date": "2025.12.30-...",
+        "videoURL": "https://youtu.be/e9kpis7f6-8?si=lRF698ZWG0MsFeG2"
+      }
+    ]
+  },
+  {
+    "name": "jamichi",
+    "avatar": "avatars/jamichi.png",
+    "completedLevels": [
+      {
+        "name": "Heterometrus",
+        "date": "2025.12.17-...",
+        "videoURL": "https://youtu.be/GXI4LNsPC_A"
+      },
+      {
+        "name": "Find Me",
+        "date": "2025.12.31-...",
+        "videoURL": "https://youtu.be/t7DbCdM-uX0"
+      }
+    ]
+  },
+  {
+    "name": "KrictNOLr",
+    "avatar": "avatars/KrictNOLr.png",
+    "completedLevels": [
+      {
+        "name": "End Of The Time",
+        "date": "2025.11.30-...",
+        "videoURL": "https://youtu.be/3awRCUz6tfM"
+      },
+      {
+        "name": "Giena",
+        "date": "2025.12.07-...",
+        "videoURL": "https://www.youtube.com/live/oeQoPJBfyeo"
+      },
+      {
+        "name": "King of Kings Easy",
+        "date": "2025.11.28-...",
+        "videoURL": "https://youtu.be/FcReM4BtRJ4"
+      }
+    ]
+  },
+  {
+    "name": "Sr3l1ck",
+    "avatar": "avatars/Sr3l1ck.png",
+    "completedLevels": [
+      {
+        "name": "dance rebirth",
+        "date": "2025.11.17-...",
+        "videoURL": "https://youtu.be/-dhHezROUHs?si=5SZaoGhJ9JFLinZ0"
+      },
+      {
+        "name": "End Of The Time",
+        "date": "2025.11.20-...",
+        "videoURL": "https://youtu.be/AbvLthoVll4"
+      },
+      {
+        "name": "Blast cream",
+        "date": "2025.11.25-...",
+        "videoURL": "https://youtu.be/cvZE5TyjTKQ?si=TuWhQj9ho5_RsCPH"
+      }
+    ]
+  },
+  {
+    "name": "T3Ynka",
+    "avatar": "avatars/T3Ynka.png",
+    "completedLevels": [
+      {
+        "name": "Find Me",
+        "date": "2025.12.26-...",
+        "videoURL": "https://youtu.be/f_qYnfDz9tk"
+      },
+      {
+        "name": "Giena",
+        "date": "2025.12.20-...",
+        "videoURL": "https://youtu.be/qxwFKsuPd1A"
+      },
+      {
+        "name": "End Of The Time",
+        "date": "2025.12.20-...",
+        "videoURL": "https://youtu.be/kOFq_kybUAQ"
+      }
+    ]
+  }
+]

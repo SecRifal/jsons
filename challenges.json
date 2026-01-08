@@ -1,0 +1,42 @@
+[
+    {
+        "name": "How do you do",
+        "creator": "SecRifal",
+        "verifier": "SecRifal",
+        "levelID": 110,
+        "stars": 40,
+        "verifURL": "https://youtube.com/shorts/DaVhb4PT62s?feature=share"        
+    },
+    {
+        "name": "Heterometrus",
+        "creator": "Solozar",
+        "verifier": "jamichi",
+        "levelID": 162,
+        "stars": 30,
+        "verifURL": "https://youtu.be/GXI4LNsPC_A"
+    },
+    {
+        "name": "Blast cream",
+        "creator": "Sr3l1ck",
+        "verifier": "Sr3l1ck",
+        "levelID": 193,
+        "stars": 25,
+        "verifURL": "https://youtu.be/cvZE5TyjTKQ?si=TuWhQj9ho5_RsCPH"
+    },
+    {
+        "name": "dance rebirth",
+        "creator": "Sr3l1ck",
+        "verifier": "Sr3l1ck",
+        "levelID": 183,
+        "stars": 20,
+        "verifURL": "https://youtu.be/-dhHezROUHs?si=5SZaoGhJ9JFLinZ0"
+    },
+    {
+        "name": "King of Kings Easy",
+        "creator": "KrictNOLr",
+        "verifier": "KrictNOLr",
+        "levelID": 199,
+        "stars": 10,
+        "verifURL": "https://youtu.be/FcReM4BtRJ4"
+    }
+]
