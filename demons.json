@@ -7,7 +7,8 @@
         "stars": 100,
         "verifURL": "https://www.youtube.com/watch?v=M40XBj2MU5Y",
         "difficulty": "Extreme",
-        "skillset": "wave-diamond; timings-diamond; memory-silver"
+        "skillset": "wave-diamond; timings-diamond; memory-silver",
+        "desc": "Бла бла бла"
     },
     {
         "name": "Classical",
