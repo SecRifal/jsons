@@ -8,7 +8,7 @@
         "verifURL": "https://www.youtube.com/watch?v=M40XBj2MU5Y",
         "difficulty": "Extreme",
         "skillset": "wave-diamond; timings-diamond; memory-silver",
-        "desc": "Бла бла бла"
+        "desc": "monging"
     },
     {
         "name": "Classical",
@@ -18,7 +18,8 @@
         "stars": 50,
         "verifURL": "https://youtu.be/YE2mEpY9aCM",
         "difficulty": "Insane",
-        "skillset": "memory-silver; ufo-gold; ball-gold"
+        "skillset": "memory-silver; ufo-gold; ball-gold",
+        "desc": "Just a classic level? Practice Recomended!"
     },
     {
         "name": "Find Me",
@@ -28,7 +29,8 @@
         "stars": 45,
         "verifURL": "https://youtu.be/f_qYnfDz9tk",
         "difficulty": "Insane",
-        "skillset": "timings-gold; ship-gold; disbalance-diamond"
+        "skillset": "timings-gold; ship-gold; disbalance-diamond",
+        "desc": "2066 att"
     },
     {
         "name": "Bankomat",
@@ -38,7 +40,8 @@
         "stars": 40,
         "verifURL": "https://youtu.be/oiDzOnQmsDQ",
         "difficulty": "",
-        "skillset": "robot-silver; timings-gold; disbalance-gold"
+        "skillset": "robot-silver; timings-gold; disbalance-gold",
+        "desc": "One of my favorite songs ."
     },
     {
         "name": "He Sees Everything",
@@ -58,7 +61,8 @@
         "stars": 20,
         "verifURL": "https://www.youtube.com/watch?v=AbvLthoVll4",
         "difficulty": "Medium",
-        "skillset": "timings-silver; ball-silver; disbalance-silver"
+        "skillset": "timings-silver; ball-silver; disbalance-silver",
+        "desc": "bro idk gg maybe"
     },
     {
         "name": "Giena",
@@ -78,7 +82,8 @@
         "stars": 10,
         "verifURL": "https://youtu.be/nhoUIUREZoc?si=Cl63F9HhRzJqdC9K",
         "difficulty": "Easy",
-        "skillset": "wave-silver; ufo-silver; ship-silver"
+        "skillset": "wave-silver; ufo-silver; ship-silver",
+        "desc": "Good luck)"
     }
 ]
 
