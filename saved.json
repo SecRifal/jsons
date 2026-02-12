@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Rafbuff Unleashed",
+        "creator": "skylar & Solozar",
+        "verifier": "skylar",
+        "levelID": false,
+        "stars": 100,
+        "verifURL": "https://www.youtube.com/watch?v=M40XBj2MU5Y",
+        "difficulty": "Extreme",
+        "skillset": "wave-diamond; timings-diamond; memory-silver",
+        "desc": "monging"
+    },
+    {
+        "name": "End Of The Time",
+        "creator": "Sr3l1ck",
+        "verifier": "Sr3l1ck",
+        "levelID": false,
+        "stars": 20,
+        "verifURL": "https://www.youtube.com/watch?v=AbvLthoVll4",
+        "difficulty": "Medium",
+        "skillset": "timings-silver; ball-silver; disbalance-silver",
+        "desc": "bro idk gg maybe"
+    },
+    {
+        "name": "Blast cream",
+        "creator": "Sr3l1ck",
+        "verifier": "Sr3l1ck",
+        "levelID": false,
+        "stars": 25,
+        "verifURL": "https://youtu.be/cvZE5TyjTKQ?si=TuWhQj9ho5_RsCPH"
+    },
+    {
+        "name": "dance rebirth",
+        "creator": "Sr3l1ck",
+        "verifier": "Sr3l1ck",
+        "levelID": false,
+        "stars": 20,
+        "verifURL": "https://youtu.be/-dhHezROUHs?si=5SZaoGhJ9JFLinZ0"
+    },
+    {
+    "name": "Sr3l1ck",
+    "avatar": "avatars/Sr3l1ck.png",
+    "completedLevels": [
+      {
+        "name": "dance rebirth",
+        "date": "2025.11.17-...",
+        "videoURL": "https://youtu.be/-dhHezROUHs?si=5SZaoGhJ9JFLinZ0"
+      },
+      {
+        "name": "End Of The Time",
+        "date": "2025.11.20-...",
+        "videoURL": "https://youtu.be/AbvLthoVll4"
+      },
+      {
+        "name": "Blast cream",
+        "date": "2025.11.25-...",
+        "videoURL": "https://youtu.be/cvZE5TyjTKQ?si=TuWhQj9ho5_RsCPH"
+      }
+    ]
+  }
+]

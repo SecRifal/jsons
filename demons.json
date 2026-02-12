@@ -1,16 +1,5 @@
 [
     {
-        "name": "Rafbuff Unleashed",
-        "creator": "skylar & Solozar",
-        "verifier": "skylar",
-        "levelID": false,
-        "stars": 100,
-        "verifURL": "https://www.youtube.com/watch?v=M40XBj2MU5Y",
-        "difficulty": "Extreme",
-        "skillset": "wave-diamond; timings-diamond; memory-silver",
-        "desc": "monging"
-    },
-    {
         "name": "Classical",
         "creator": "SecRifal",
         "verifier": "SecRifal",
@@ -45,24 +34,13 @@
     },
     {
         "name": "He Sees Everything",
-        "creator": "KrictNOLr",
-        "verifier": "KrictNOLr",
+        "creator": "Krictor",
+        "verifier": "Krictor",
         "levelID": 3,
         "stars": 25,
         "verifURL": false,
         "difficulty": "Medium",
         "skillset": "memory-gold; timings-silver; disbalance-silver"
-    },
-    {
-        "name": "End Of The Time",
-        "creator": "Sr3l1ck",
-        "verifier": "Sr3l1ck",
-        "levelID": false,
-        "stars": 20,
-        "verifURL": "https://www.youtube.com/watch?v=AbvLthoVll4",
-        "difficulty": "Medium",
-        "skillset": "timings-silver; ball-silver; disbalance-silver",
-        "desc": "bro idk gg maybe"
     },
     {
         "name": "Giena",

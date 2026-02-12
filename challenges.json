@@ -18,35 +18,19 @@
     },
     {
         "name": "Aichmophobia Easy",
-        "creator": "KrictNOLr",
-        "verifier": "KrictNOLr",
+        "creator": "Krictor",
+        "verifier": "Krictor",
         "levelID": 15,
         "stars": 30,
         "verifURL": "https://youtu.be/7oHDJdMu5lg"
     },
     {
-        "name": "Blast cream",
-        "creator": "Sr3l1ck",
-        "verifier": "Sr3l1ck",
-        "levelID": false,
-        "stars": 25,
-        "verifURL": "https://youtu.be/cvZE5TyjTKQ?si=TuWhQj9ho5_RsCPH"
-    },
-    {
         "name": "KID",
         "creator": "T3Ynka",
-        "verifier": "KrictNOLr",
+        "verifier": "Krictor",
         "levelID": false,
         "stars": 23,
         "verifURL": "https://youtu.be/O0QrHWwihZI"
-    },
-    {
-        "name": "dance rebirth",
-        "creator": "Sr3l1ck",
-        "verifier": "Sr3l1ck",
-        "levelID": false,
-        "stars": 20,
-        "verifURL": "https://youtu.be/-dhHezROUHs?si=5SZaoGhJ9JFLinZ0"
     },
     {
         "name": "T3Ynka",
@@ -58,8 +42,8 @@
     },
     {
         "name": "King of Kings Easy",
-        "creator": "KrictNOLr",
-        "verifier": "KrictNOLr",
+        "creator": "Krictor",
+        "verifier": "Krictor",
         "levelID": 12,
         "stars": 10,
         "verifURL": "https://youtu.be/FcReM4BtRJ4"

@@ -48,7 +48,7 @@
     ]
   },
   {
-    "name": "KrictNOLr",
+    "name": "Krictor",
     "avatar": "avatars/KrictNOLr.png",
     "completedLevels": [
       {
@@ -82,28 +82,7 @@
         "videoURL": "https://youtu.be/7oHDJdMu5lg"
       }
     ]
-  },
-  {
-    "name": "Sr3l1ck",
-    "avatar": "avatars/Sr3l1ck.png",
-    "completedLevels": [
-      {
-        "name": "dance rebirth",
-        "date": "2025.11.17-...",
-        "videoURL": "https://youtu.be/-dhHezROUHs?si=5SZaoGhJ9JFLinZ0"
-      },
-      {
-        "name": "End Of The Time",
-        "date": "2025.11.20-...",
-        "videoURL": "https://youtu.be/AbvLthoVll4"
-      },
-      {
-        "name": "Blast cream",
-        "date": "2025.11.25-...",
-        "videoURL": "https://youtu.be/cvZE5TyjTKQ?si=TuWhQj9ho5_RsCPH"
-      }
-    ]
-  },
+  }, 
   {
     "name": "T3Ynka",
     "avatar": "avatars/T3Ynka.png",
