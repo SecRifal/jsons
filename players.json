@@ -118,5 +118,16 @@
         "videoURL": "https://youtu.be/u7zOqVNA1EM"
       }
     ]
+  },
+  {
+    "name": "HydraShape",
+    "avatar": "avatars/HydraShape.png",
+    "completedLevels": [
+      {
+        "name": "Bankomat",
+        "date": "2026.02.13-...",
+        "videoURL": "https://www.youtube.com/watch?v=UkHlumvkb_A"
+      }
+    ]
   }
 ]
