@@ -22,13 +22,35 @@
         "desc": "2066 att"
     },
     {
+        "name": "CyberShapes",
+        "creator": "HydraShape",
+        "verifier": "HydraShape",
+        "levelID": 32,
+        "stars": 43,
+        "verifURL": "https://youtu.be/kOFq_kybUAQ",
+        "difficulty": "Hard",
+        "skillset": "robot-gold; timings-gold; disbalance-silver",
+        "desc": false
+    },
+    {
+        "name": "Black Step",
+        "creator": "T3Ynka",
+        "verifier": "T3Ynka",
+        "levelID": 37,
+        "stars": 41,
+        "verifURL": "https://youtu.be/RtPxntQM4Tw",
+        "difficulty": "Hard",
+        "skillset": "memory-silver; cube-gold; disbalance-gold",
+        "desc": "419 att"
+    },
+    {
         "name": "Bankomat",
         "creator": "SecRifal",
         "verifier": "SecRifal",
         "levelID": 18,
         "stars": 40,
         "verifURL": "https://youtu.be/oiDzOnQmsDQ",
-        "difficulty": "",
+        "difficulty": "Hard",
         "skillset": "robot-silver; timings-gold; disbalance-gold",
         "desc": "One of my favorite songs ."
     },
@@ -40,7 +62,8 @@
         "stars": 25,
         "verifURL": false,
         "difficulty": "Medium",
-        "skillset": "memory-gold; timings-silver; disbalance-silver"
+        "skillset": "memory-gold; timings-silver; disbalance-silver",
+        "desc": false
     },
     {
         "name": "Giena",
@@ -49,8 +72,9 @@
         "levelID": false,
         "stars": 15,
         "verifURL": false,
-        "difficulty": "Easy",
-        "skillset": "timings-silver; wave-silver; disbalance-silver"
+        "difficulty": "Medium",
+        "skillset": "timings-silver; wave-silver; disbalance-silver",
+        "desc": false
     },
     {
         "name": "Megalovania",
@@ -59,7 +83,7 @@
         "levelID": 20,
         "stars": 10,
         "verifURL": "https://youtu.be/nhoUIUREZoc?si=Cl63F9HhRzJqdC9K",
-        "difficulty": "Easy",
+        "difficulty": "Medium",
         "skillset": "wave-silver; ufo-silver; ship-silver",
         "desc": "Good luck)"
     }

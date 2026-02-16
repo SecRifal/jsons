@@ -47,5 +47,21 @@
         "levelID": 12,
         "stars": 10,
         "verifURL": "https://youtu.be/FcReM4BtRJ4"
+    },
+    {
+        "name": "ez challenge",
+        "creator": "1nsani1ty",
+        "verifier": "jamichi",
+        "levelID": false,
+        "stars": 7,
+        "verifURL": "https://youtu.be/p7qzMljLwmg"
+    },
+    {
+        "name": "classical chamber",
+        "creator": "dobryanskyv2",
+        "verifier": "jamichi",
+        "levelID": 36,
+        "stars": 3,
+        "verifURL": "https://youtu.be/dp5fUEYhweA"
     }
 ]
