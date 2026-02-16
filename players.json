@@ -44,6 +44,16 @@
         "name": "Find Me",
         "date": "2025.12.31-...",
         "videoURL": "https://youtu.be/t7DbCdM-uX0"
+      },
+      {
+        "name": "ez challenge",
+        "date": "2026.02.15-...",
+        "videoURL": "https://youtu.be/p7qzMljLwmg"
+      },
+      {
+        "name": "classical chamber",
+        "date": "2026.02.15-...",
+        "videoURL": "https://youtu.be/1n9s8Xo2l3c"
       }
     ]
   },
@@ -116,6 +126,11 @@
         "name": "T3Ynka",
         "date": "2026.02.04-...",
         "videoURL": "https://youtu.be/u7zOqVNA1EM"
+      },
+      {
+        "name": "Black Step",
+        "date": "2026.02.15-...",
+        "videoURL": "https://youtu.be/RtPxntQM4Tw"
       }
     ]
   },
@@ -127,6 +142,11 @@
         "name": "Bankomat",
         "date": "2026.02.13-...",
         "videoURL": "https://www.youtube.com/watch?v=UkHlumvkb_A"
+      },
+      {
+        "name": "CyberShapes",
+        "date": "2026.02.15-...",
+        "videoURL": "https://youtu.be/N7EwLnmLz8c"
       }
     ]
   }
