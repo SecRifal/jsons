@@ -28,7 +28,7 @@
         "name": "KID",
         "creator": "T3Ynka",
         "verifier": "Krictor",
-        "levelID": false,
+        "levelID": 42,
         "stars": 23,
         "verifURL": "https://youtu.be/O0QrHWwihZI"
     },

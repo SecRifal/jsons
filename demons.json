@@ -14,12 +14,12 @@
         "name": "Find Me",
         "creator": "T3Ynka",
         "verifier": "T3Ynka",
-        "levelID": false,
+        "levelID": 41,
         "stars": 45,
         "verifURL": "https://youtu.be/f_qYnfDz9tk",
         "difficulty": "Insane",
         "skillset": "timings-gold; ship-gold; disbalance-diamond",
-        "desc": "2066 att"
+        "desc": false
     },
     {
         "name": "CyberShapes",
