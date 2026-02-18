@@ -66,17 +66,6 @@
         "desc": false
     },
     {
-        "name": "Giena",
-        "creator": "Solozar",
-        "verifier": "Solozar",
-        "levelID": 52,
-        "stars": 15,
-        "verifURL": false,
-        "difficulty": "Medium",
-        "skillset": "timings-silver; wave-silver; disbalance-silver",
-        "desc": "by solozar"
-    },
-    {
         "name": "Megalovania",
         "creator": "SecRifal",
         "verifier": "SecRifal",
@@ -86,6 +75,17 @@
         "difficulty": "Medium",
         "skillset": "wave-silver; ufo-silver; ship-silver",
         "desc": "Good luck)"
+    },
+    {
+        "name": "Giena",
+        "creator": "Solozar",
+        "verifier": "Solozar",
+        "levelID": 52,
+        "stars": 15,
+        "verifURL": false,
+        "difficulty": "Easy",
+        "skillset": "timings-silver; wave-silver; disbalance-silver",
+        "desc": "by solozar"
     }
 ]
 
