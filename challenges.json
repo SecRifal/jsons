@@ -12,9 +12,25 @@
         "name": "Heterometrus",
         "creator": "Solozar",
         "verifier": "jamichi",
-        "levelID": false,
+        "levelID": 51,
         "stars": 35,
         "verifURL": "https://youtu.be/GXI4LNsPC_A"
+    },
+    {
+        "name": "dance",
+        "creator": "Solozar",
+        "verifier": "jamichi",
+        "levelID": 53,
+        "stars": 33,
+        "verifURL": "https://youtu.be/pmap6ck7E04"
+    },
+    {
+        "name": "ThunderZone",
+        "creator": "4444",
+        "verifier": "jamichi",
+        "levelID": 50,
+        "stars": 31,
+        "verifURL": "https://youtu.be/mfWVoRZ-XoY"
     },
     {
         "name": "Aichmophobia Easy",
@@ -25,12 +41,28 @@
         "verifURL": "https://youtu.be/7oHDJdMu5lg"
     },
     {
+        "name": "T3Ynka II",
+        "creator": "T3Ynka",
+        "verifier": "T3Ynka",
+        "levelID": 46,
+        "stars": 26,
+        "verifURL": "https://youtu.be/WmbYiD8XFt8"
+    },
+    {
         "name": "KID",
         "creator": "T3Ynka",
         "verifier": "Krictor",
         "levelID": 42,
         "stars": 23,
         "verifURL": "https://youtu.be/O0QrHWwihZI"
+    },
+    {
+        "name": "Named 0",
+        "creator": "jamichi",
+        "verifier": "jamichi",
+        "levelID": 85,
+        "stars": 20,
+        "verifURL": "https://youtu.be/xWZLbvO1vB0"
     },
     {
         "name": "T3Ynka",
