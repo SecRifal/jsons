@@ -70,10 +70,10 @@
         "creator": "SecRifal",
         "verifier": "SecRifal",
         "levelID": 20,
-        "stars": 10,
+        "stars": 15,
         "verifURL": false,
         "difficulty": "Medium",
-        "skillset": "wave-silver; ufo-silver; ship-silver",
+        "skillset": "wave-silver; ufo-silver; speed-diamond",
         "desc": "Good luck)"
     },
     {
@@ -81,7 +81,7 @@
         "creator": "Solozar",
         "verifier": "Solozar",
         "levelID": 52,
-        "stars": 15,
+        "stars": 10,
         "verifURL": false,
         "difficulty": "Easy",
         "skillset": "timings-silver; wave-silver; disbalance-silver",
