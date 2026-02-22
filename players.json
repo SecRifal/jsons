@@ -214,5 +214,16 @@
         "videoURL": "https://youtu.be/N7EwLnmLz8c"
       }
     ]
+  },
+  {
+    "name": "Mario",
+    "avatar": "avatars/Mario.png",
+    "completedLevels": [
+      {
+        "name": "ThunderZone",
+        "date": "2025.11.22-...",
+        "videoURL": "https://www.youtube.com/watch?v=DnjMxBkOICg"
+      }
+    ]
   }
 ]
