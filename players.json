@@ -251,5 +251,16 @@
         "videoURL": "https://www.youtube.com/watch?v=DnjMxBkOICg"
       }
     ]
+  },
+  {
+    "name": "kyyics",
+    "avatar": "avatars/kyyics.png",
+    "completedLevels": [
+      {
+        "name": "Classical Chamber",
+        "date": "2026.03.05-...",
+        "videoURL": "https://youtu.be/qoNKS8urSqg"
+      }
+    ]
   }
 ]
