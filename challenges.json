@@ -13,7 +13,7 @@
         "creator": "Solozar",
         "verifier": "jamichi",
         "levelID": 51,
-        "stars": 35,
+        "stars": 30,
         "verifURL": "https://youtu.be/GXI4LNsPC_A"
     },
     {
@@ -21,7 +21,7 @@
         "creator": "Solozar",
         "verifier": "jamichi",
         "levelID": 53,
-        "stars": 33,
+        "stars": 25,
         "verifURL": "https://youtu.be/pmap6ck7E04"
     },
     {
@@ -29,7 +29,7 @@
         "creator": "4444",
         "verifier": "jamichi",
         "levelID": 50,
-        "stars": 31,
+        "stars": 18,
         "verifURL": "https://youtu.be/mfWVoRZ-XoY"
     },
     {
@@ -37,7 +37,7 @@
         "creator": "Krictor",
         "verifier": "Krictor",
         "levelID": 15,
-        "stars": 30,
+        "stars": 15,
         "verifURL": "https://youtu.be/7oHDJdMu5lg"
     },
     {
@@ -45,7 +45,7 @@
         "creator": "T3Ynka",
         "verifier": "T3Ynka",
         "levelID": 89,
-        "stars": 27,
+        "stars": 13,
         "verifURL": "https://youtu.be/uN3bBLSpCRM"
     },
     {
@@ -53,31 +53,31 @@
         "creator": "T3Ynka",
         "verifier": "T3Ynka",
         "levelID": 46,
-        "stars": 26,
+        "stars": 12,
         "verifURL": "https://youtu.be/WmbYiD8XFt8"
-    },
-    {
-        "name": "KID",
-        "creator": "T3Ynka",
-        "verifier": "Krictor",
-        "levelID": 42,
-        "stars": 23,
-        "verifURL": "https://youtu.be/O0QrHWwihZI"
     },
     {
         "name": "Named 0",
         "creator": "jamichi",
         "verifier": "jamichi",
         "levelID": 85,
-        "stars": 20,
+        "stars": 11,
         "verifURL": "https://youtu.be/xWZLbvO1vB0"
+    },
+    {
+        "name": "KID",
+        "creator": "T3Ynka",
+        "verifier": "Krictor",
+        "levelID": 42,
+        "stars": 9,
+        "verifURL": "https://youtu.be/O0QrHWwihZI"
     },
     {
         "name": "Aqua Aura",
         "creator": "HydraShape",
         "verifier": "HydraShape",
         "levelID": 95,
-        "stars": 15,
+        "stars": 8,
         "verifURL": "https://youtu.be/kXlxzsW81uE"
     },
     {
@@ -85,7 +85,7 @@
         "creator": "T3Ynka",
         "verifier": "T3Ynka",
         "levelID": 40,
-        "stars": 11,
+        "stars": 6,
         "verifURL": "https://youtu.be/u7zOqVNA1EM"
     },
     {
@@ -93,7 +93,7 @@
         "creator": "Krictor",
         "verifier": "Krictor",
         "levelID": 12,
-        "stars": 10,
+        "stars": 5,
         "verifURL": "https://youtu.be/FcReM4BtRJ4"
     },
     {
@@ -101,7 +101,7 @@
         "creator": "1nsani1ty",
         "verifier": "jamichi",
         "levelID": 34,
-        "stars": 7,
+        "stars": 3,
         "verifURL": "https://youtu.be/p7qzMljLwmg"
     },
     {
@@ -109,7 +109,7 @@
         "creator": "dobryanskyv2",
         "verifier": "jamichi",
         "levelID": 36,
-        "stars": 3,
+        "stars": 1,
         "verifURL": "https://youtu.be/dp5fUEYhweA"
     }
 ]

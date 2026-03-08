@@ -33,6 +33,17 @@
         "desc": false
     },
     {
+        "name": "MORO3",
+        "creator": "kyyics",
+        "verifier": "kyyics",
+        "levelID": 94,
+        "stars": 37,
+        "verifURL": "https://youtu.be/I_OQN_nGcNg",
+        "difficulty": "Hard",
+        "skillset": "wave-gold; ship-gold; ball-gold",
+        "desc": false
+    },
+    {
         "name": "CyberShapes",
         "creator": "HydraShape",
         "verifier": "HydraShape",
@@ -74,6 +85,17 @@
         "verifURL": false,
         "difficulty": "Medium",
         "skillset": "memory-gold; timings-silver; disbalance-silver",
+        "desc": false
+    },
+    {
+        "name": "Glitch Orb II",
+        "creator": "kyyics",
+        "verifier": "kyyics",
+        "levelID": 96,
+        "stars": 22,
+        "verifURL": false,
+        "difficulty": "Medium",
+        "skillset": "cube-gold; timings-gold; ship-gold",
         "desc": false
     },
     {
