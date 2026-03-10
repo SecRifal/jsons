@@ -283,5 +283,21 @@
         "videoURL": "https://www.youtube.com/watch?v=M40XBj2MU5Y"
       }
     ]
+  },
+  {
+    "name": "cherimoyanoclip",
+    "avatar": "avatars/cherimoyanoclip.png",
+    "completedLevels": [
+      {
+        "name": "Classical Chamber",
+        "date": "2026.03.10-...",
+        "videoURL": "https://youtu.be/p2_VQIX12cw"
+      },
+      {
+        "name": "li2d",
+        "date": "2026.03.09-...",
+        "videoURL": "https://youtu.be/ma_z148H0nE"
+      }
+    ]
   }
 ]
