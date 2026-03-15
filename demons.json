@@ -4,11 +4,22 @@
         "creator": "skylar & Solozar",
         "verifier": "skylar",
         "levelID": 100,
-        "stars": 100,
+        "stars": 90,
         "verifURL": "https://www.youtube.com/watch?v=M40XBj2MU5Y",
         "difficulty": "Extreme",
         "skillset": "memory-gold; timings-diamond; ship-diamond",
         "desc": "By skylar & Solozar"
+    },
+    {
+        "name": "Classical II",
+        "creator": "SecRifal",
+        "verifier": "HydraShape",
+        "levelID": 17,
+        "stars": 77,
+        "verifURL": "https://www.youtube.com/watch?v=tdNjTErOdTk",
+        "difficulty": "Extreme",
+        "skillset": "memory-silver; ufo-diamond; disbalance-gold",
+        "desc": "Just a second classic level :/"
     },
     {
         "name": "Classical",
