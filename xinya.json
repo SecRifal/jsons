@@ -1,16 +1,5 @@
 [
     {
-        "name": "Rafbuff Unleashed",
-        "creator": "skylar & Solozar",
-        "verifier": "skylar",
-        "levelID": false,
-        "stars": 100,
-        "verifURL": "https://www.youtube.com/watch?v=M40XBj2MU5Y",
-        "difficulty": "Extreme",
-        "skillset": "wave-diamond; timings-diamond; memory-silver",
-        "desc": "monging"
-    },
-    {
         "name": "End Of The Time",
         "creator": "Sr3l1ck",
         "verifier": "Sr3l1ck",
@@ -57,5 +46,5 @@
         "videoURL": "https://youtu.be/cvZE5TyjTKQ?si=TuWhQj9ho5_RsCPH"
       }
     ]
-  },
+  }
 ]
