@@ -304,5 +304,16 @@
         "videoURL": "https://youtu.be/ma_z148H0nE"
       }
     ]
+  },
+  {
+    "name": "akauntnotfound",
+    "avatar": "avatars/akauntnotfound.png",
+    "completedLevels": [
+      {
+        "name": "ez challenge",
+        "date": "2026.03.22-...",
+        "videoURL": "https://youtu.be/CBuFjX0Mg5Y"
+      }
+    ]
   }
 ]
