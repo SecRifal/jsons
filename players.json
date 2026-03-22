@@ -310,14 +310,14 @@
     "avatar": "avatars/akauntnotfound.png",
     "completedLevels": [
       {
-        "name": "ez challenge",
-        "date": "2026.03.22-...",
-        "videoURL": "https://youtu.be/CBuFjX0Mg5Y"
-      },
-      {
         "name": "faraway",
         "date": "2026.03.22-...",
         "videoURL": "https://youtu.be/z7eBCk57h00"
+      },
+      {
+        "name": "ez challenge",
+        "date": "2026.03.22-...",
+        "videoURL": "https://youtu.be/CBuFjX0Mg5Y"
       }
     ]
   }
