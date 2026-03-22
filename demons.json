@@ -22,6 +22,17 @@
         "desc": "Just a second classic level :/"
     },
     {
+        "name": "faraway",
+        "creator": "unknown",
+        "verifier": "akauntnotfound",
+        "levelID": 103,
+        "stars": 56,
+        "verifURL": "https://youtu.be/z7eBCk57h00",
+        "difficulty": "Insane",
+        "skillset": "ufo-gold; cube-gold; timings-gold",
+        "desc": "forever"
+    },
+    {
         "name": "Classical",
         "creator": "SecRifal",
         "verifier": "SecRifal",
