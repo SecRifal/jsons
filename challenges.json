@@ -6,7 +6,6 @@
         "levelID": 19,
         "stars": 40,
         "verifURL": "https://youtube.com/shorts/DaVhb4PT62s?feature=share"        
-        
     },
     {
         "name": "Heterometrus",
@@ -47,6 +46,14 @@
         "levelID": 15,
         "stars": 15,
         "verifURL": "https://youtu.be/7oHDJdMu5lg"
+    },
+    {
+        "name": "HelloMan",
+        "creator": "HydraShape",
+        "verifier": "HydraShape",
+        "levelID": 105,
+        "stars": 14,
+        "verifURL": "https://youtu.be/PVl42FGy18k?si=3fXAhk86Zo8D3ots"
     },
     {
         "name": "T3Ynka III",

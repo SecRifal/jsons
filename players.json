@@ -248,6 +248,11 @@
         "name": "Classical II",
         "date": "2026.03.15-...",
         "videoURL": "https://www.youtube.com/watch?v=tdNjTErOdTk"
+      },
+      {
+        "name": "HelloMan",
+        "date": "2026.04.02-...",
+        "videoURL": "https://youtu.be/PVl42FGy18k?si=3fXAhk86Zo8D3ots"
       }
     ]
   },
@@ -318,6 +323,17 @@
         "name": "ez challenge",
         "date": "2026.03.22-...",
         "videoURL": "https://youtu.be/CBuFjX0Mg5Y"
+      }
+    ]
+  },
+  {
+    "name": "Demolena",
+    "avatar": "avatars/Demolena.png",
+    "completedLevels": [
+      {
+        "name": "hatemeplis",
+        "date": "2026.04.08-...",
+        "videoURL": "https://youtu.be/15ZF2hR1cAQ?si=V3Q1wGPDpGyY3oPS"
       }
     ]
   }
