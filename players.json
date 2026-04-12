@@ -336,5 +336,16 @@
         "videoURL": "https://youtu.be/15ZF2hR1cAQ?si=V3Q1wGPDpGyY3oPS"
       }
     ]
+  },
+  {
+    "name": "alakit",
+    "avatar": "avatars/alakit.png",
+    "completedLevels": [
+      {
+        "name": "CBET",
+        "date": "2026.04.11-...",
+        "videoURL": "https://youtu.be/Ebr5Xx5xW1s"
+      }
+    ]
   }
 ]

@@ -24,20 +24,28 @@
         "verifURL": "https://youtu.be/pmap6ck7E04"
     },
     {
-        "name": "ThunderZone",
-        "creator": "4444",
-        "verifier": "jamichi",
-        "levelID": 50,
-        "stars": 18,
-        "verifURL": "https://youtu.be/mfWVoRZ-XoY"
+        "name": "CBET",
+        "creator": "alakit",
+        "verifier": "alakit",
+        "levelID": 108,
+        "stars": 22,
+        "verifURL": "https://youtu.be/Ebr5Xx5xW1s"
     },
     {
         "name": "li2d",
         "creator": "cherimoyanoclip",
         "verifier": "cherimoyanoclip",
         "levelID": 99,
-        "stars": 17,
+        "stars": 18,
         "verifURL": "https://youtu.be/ma_z148H0nE"
+    },
+    {
+        "name": "ThunderZone",
+        "creator": "4444",
+        "verifier": "jamichi",
+        "levelID": 50,
+        "stars": 17,
+        "verifURL": "https://youtu.be/mfWVoRZ-XoY"
     },
     {
         "name": "Aichmophobia Easy",
