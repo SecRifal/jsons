@@ -5,7 +5,9 @@
         "verifier": "SecRifal",
         "levelID": 19,
         "stars": 40,
-        "verifURL": "https://youtube.com/shorts/DaVhb4PT62s?feature=share"        
+        "verifURL": "https://youtube.com/shorts/DaVhb4PT62s?feature=share",
+        "skillset": "cube-gold; timings-silver; memory-diamond",
+        "desc": "Ayo! Memory)))"    
     },
     {
         "name": "Heterometrus",
@@ -13,7 +15,9 @@
         "verifier": "jamichi",
         "levelID": 51,
         "stars": 30,
-        "verifURL": "https://youtu.be/GXI4LNsPC_A"
+        "verifURL": "https://youtu.be/GXI4LNsPC_A",
+        "skillset": "spider-diamond; timings-diamond",
+        "desc": "by solozar"
     },
     {
         "name": "dance",
@@ -21,7 +25,9 @@
         "verifier": "jamichi",
         "levelID": 53,
         "stars": 25,
-        "verifURL": "https://youtu.be/pmap6ck7E04"
+        "verifURL": "https://youtu.be/pmap6ck7E04",
+        "skillset": "wave-diamond; spam-gold",
+        "desc": "754 atts (original by solozar)"
     },
     {
         "name": "CBET",
@@ -29,7 +35,9 @@
         "verifier": "alakit",
         "levelID": 108,
         "stars": 22,
-        "verifURL": "https://youtu.be/Ebr5Xx5xW1s"
+        "verifURL": "https://youtu.be/Ebr5Xx5xW1s",
+        "skillset": "wave-diamond; ship-silver",
+        "desc": "verification by alakit | 1018 att"
     },
     {
         "name": "li2d",
@@ -37,7 +45,9 @@
         "verifier": "cherimoyanoclip",
         "levelID": 99,
         "stars": 18,
-        "verifURL": "https://youtu.be/ma_z148H0nE"
+        "verifURL": "https://youtu.be/ma_z148H0nE",
+        "skillset": "spam-diamond",
+        "desc": false
     },
     {
         "name": "ThunderZone",
@@ -45,7 +55,9 @@
         "verifier": "jamichi",
         "levelID": 50,
         "stars": 17,
-        "verifURL": "https://youtu.be/mfWVoRZ-XoY"
+        "verifURL": "https://youtu.be/mfWVoRZ-XoY",
+        "skillset": "wave-gold; spam-gold",
+        "desc": "by 4444, tgdps (re-verified by jamichi)"
     },
     {
         "name": "Aichmophobia Easy",
@@ -53,7 +65,9 @@
         "verifier": "Krictor",
         "levelID": 15,
         "stars": 15,
-        "verifURL": "https://youtu.be/7oHDJdMu5lg"
+        "verifURL": "https://youtu.be/7oHDJdMu5lg",
+        "skillset": "wave-gold",
+        "desc": false
     },
     {
         "name": "HelloMan",
@@ -61,7 +75,9 @@
         "verifier": "HydraShape",
         "levelID": 105,
         "stars": 14,
-        "verifURL": "https://youtu.be/PVl42FGy18k?si=3fXAhk86Zo8D3ots"
+        "verifURL": "https://youtu.be/PVl42FGy18k?si=3fXAhk86Zo8D3ots",
+        "skillset": "wave-silver; duals-gold",
+        "desc": "Challenge, 404 att"
     },
     {
         "name": "T3Ynka III",
@@ -69,7 +85,9 @@
         "verifier": "T3Ynka",
         "levelID": 89,
         "stars": 13,
-        "verifURL": "https://youtu.be/uN3bBLSpCRM"
+        "verifURL": "https://youtu.be/uN3bBLSpCRM",
+        "skillset": "wave-gold; timings-silver",
+        "desc": false
     },
     {
         "name": "T3Ynka II",
@@ -77,7 +95,9 @@
         "verifier": "T3Ynka",
         "levelID": 46,
         "stars": 12,
-        "verifURL": "https://youtu.be/WmbYiD8XFt8"
+        "verifURL": "https://youtu.be/WmbYiD8XFt8",
+        "skillset": "wave-silver; ship-gold; timings-silver",
+        "desc": "480 att"
     },
     {
         "name": "Named 0",
@@ -85,7 +105,9 @@
         "verifier": "jamichi",
         "levelID": 85,
         "stars": 11,
-        "verifURL": "https://youtu.be/xWZLbvO1vB0"
+        "verifURL": "https://youtu.be/xWZLbvO1vB0",
+        "skillset": "ship-gold",
+        "desc": "beb challenge"
     },
     {
         "name": "KID",
@@ -93,7 +115,9 @@
         "verifier": "Krictor",
         "levelID": 42,
         "stars": 9,
-        "verifURL": "https://youtu.be/O0QrHWwihZI"
+        "verifURL": "https://youtu.be/O0QrHWwihZI",
+        "skillset": "wave-gold",
+        "desc": false
     },
     {
         "name": "Aqua Aura",
@@ -101,7 +125,9 @@
         "verifier": "HydraShape",
         "levelID": 95,
         "stars": 8,
-        "verifURL": "https://youtu.be/kXlxzsW81uE"
+        "verifURL": "https://youtu.be/kXlxzsW81uE",
+        "skillset": "wave-silver; ship-silver",
+        "desc": "Challenge"
     },
     {
         "name": "T3Ynka",
@@ -109,7 +135,9 @@
         "verifier": "T3Ynka",
         "levelID": 40,
         "stars": 6,
-        "verifURL": "https://youtu.be/u7zOqVNA1EM"
+        "verifURL": "https://youtu.be/u7zOqVNA1EM",
+        "skillset": "wave-silver",
+        "desc": false
     },
     {
         "name": "King of Kings Easy",
@@ -117,7 +145,9 @@
         "verifier": "Krictor",
         "levelID": 12,
         "stars": 5,
-        "verifURL": "https://youtu.be/FcReM4BtRJ4"
+        "verifURL": "https://youtu.be/FcReM4BtRJ4",
+        "skillset": "timings-silver; wave-silver",
+        "desc": false
     },
     {
         "name": "ez challenge",
@@ -125,7 +155,9 @@
         "verifier": "jamichi",
         "levelID": 34,
         "stars": 3,
-        "verifURL": "https://youtu.be/p7qzMljLwmg"
+        "verifURL": "https://youtu.be/p7qzMljLwmg",
+        "skillset": "wave-silver",
+        "desc": "by 1nsani1ty, tgdps (re-verified by jamichi, 13 atts)"
     },
     {
         "name": "classical chamber",
@@ -133,6 +165,8 @@
         "verifier": "jamichi",
         "levelID": 36,
         "stars": 1,
-        "verifURL": "https://youtu.be/dp5fUEYhweA"
+        "verifURL": "https://youtu.be/dp5fUEYhweA",
+        "skillset": "wave-silver",
+        "desc": "by dobryansky, tgdps (re-verified by jamichi 7 atts)"
     }
 ]
