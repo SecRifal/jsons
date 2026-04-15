@@ -372,5 +372,16 @@
         "videoURL": "https://youtu.be/cHlXzv7AIAU?si=hpvhzmQaEzEnrd80"
       }
     ]
+  },
+  {
+    "name": "astro",
+    "avatar": "avatars/astro.png",
+    "completedLevels": [
+      {
+        "name": "Marbles",
+        "date": "2026.04.13-...",
+        "videoURL": "https://youtu.be/ltpz0oVa66o"
+      }
+    ]
   }
 ]
