@@ -7,7 +7,7 @@
         "stars": 99,
         "verifURL": "https://youtu.be/15ZF2hR1cAQ?si=V3Q1wGPDpGyY3oPS",
         "difficulty": "Extreme",
-        "skillset": "ship-gold; wave-diamond; timings-diamond",
+        "skillset": "ship-emerald; wave-diamond; timings-diamond",
         "desc": "I hate myself"
     },
     {
@@ -18,7 +18,7 @@
         "stars": 90,
         "verifURL": "https://www.youtube.com/watch?v=M40XBj2MU5Y",
         "difficulty": "Extreme",
-        "skillset": "memory-gold; timings-diamond; ship-diamond",
+        "skillset": "memory-gold; timings-diamond; ship-emerald",
         "desc": "By skylar & Solozar"
     },
     {
@@ -40,7 +40,7 @@
         "stars": 56,
         "verifURL": "https://youtu.be/z7eBCk57h00",
         "difficulty": "Insane",
-        "skillset": "ufo-gold; cube-gold; timings-gold",
+        "skillset": "ufo-gold; cube-gold; timings-emerald",
         "desc": "forever"
     },
     {
@@ -62,7 +62,7 @@
         "stars": 45,
         "verifURL": "https://youtu.be/f_qYnfDz9tk",
         "difficulty": "Insane",
-        "skillset": "timings-gold; ship-gold; disbalance-diamond",
+        "skillset": "timings-gold; ship-gold; disbalance-emerald",
         "desc": false
     },
     {
@@ -150,7 +150,7 @@
         "stars": 20,
         "verifURL": "https://youtu.be/sSrXKR06urM",
         "difficulty": "Medium",
-        "skillset": "wave-gold; ship-gold; disbalance-diamond",
+        "skillset": "wave-gold; ship-gold; disbalance-emerald",
         "desc": false
     },
     {
