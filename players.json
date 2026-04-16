@@ -253,6 +253,11 @@
         "name": "HelloMan",
         "date": "2026.04.02-...",
         "videoURL": "https://youtu.be/PVl42FGy18k?si=3fXAhk86Zo8D3ots"
+      },
+      {
+        "name": "How do you do",
+        "date": "2026.04.16-...",
+        "videoURL": "https://youtu.be/ng-gcdX9KL8"
       }
     ]
   },
@@ -381,6 +386,11 @@
         "name": "Marbles",
         "date": "2026.04.13-...",
         "videoURL": "https://youtu.be/ltpz0oVa66o"
+      },
+      {
+        "name": "Lagoon",
+        "date": "2026.04.16-...",
+        "videoURL": "https://youtu.be/oFCe9fhSOgk"
       }
     ]
   }

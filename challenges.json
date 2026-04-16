@@ -30,6 +30,16 @@
         "desc": false
     },
     {
+        "name": "Lagoon",
+        "creator": "astro",
+        "verifier": "astro",
+        "levelID": 111,
+        "stars": 26,
+        "verifURL": "https://youtu.be/oFCe9fhSOgk",
+        "skillset": "wave-amethyst",
+        "desc": false
+    },
+    {
         "name": "dance",
         "creator": "Solozar",
         "verifier": "jamichi",
