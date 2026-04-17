@@ -20,6 +20,16 @@
         "desc": "by solozar"
     },
     {
+        "name": "ironia",
+        "creator": "GeoFaer & astro",
+        "verifier": "astro",
+        "levelID": 112,
+        "stars": 29,
+        "verifURL": "https://youtu.be/zVpRF_W8QtA",
+        "skillset": "wave-amethyst; timings-emerald; spam-gold",
+        "desc": false
+    },
+    {
         "name": "Marbles",
         "creator": "astro",
         "verifier": "astro",
